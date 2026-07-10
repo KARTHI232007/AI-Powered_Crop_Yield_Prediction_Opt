@@ -69,10 +69,6 @@ Helps farmers make **budget-aware decisions**.
 
 ---
 
-## 📂 Project Structure
-
-=======
-
 ## Expected Outcome
 - Improved Yield Forecasting
 - Better Resource Utilization

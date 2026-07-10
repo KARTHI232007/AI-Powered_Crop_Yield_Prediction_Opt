@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌱 AgriSense AI – Smart Farming Intelligence System
 
 AgriSense AI is an **AI-powered smart farming platform** that helps farmers predict **crop yield**, **market price**, and **nutrient optimization strategies** using machine learning, deep learning, and computer vision.
@@ -74,4 +74,4 @@ Helps farmers make **budget-aware decisions**.
 - Better Resource Utilization
 - Data-Driven Farming Decisions
 - Increased Agricultural Productivity
->>>>>>> da5c8ae06ba5d8da95e6f53b8fa3660911d4d62b
+

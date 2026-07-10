@@ -192,6 +192,7 @@ async def analyze_image(request: Request, file: UploadFile = File(...), crop_typ
             confidence = f"{probs[pred_idx].item() * 100:.2f}%"
 
         # --- Grad-CAM Visualization ---
+        # --- Grad-CAM Visualization ---
         target_layers = [model.conv_head]
         cam = GradCAM(model=model, target_layers=target_layers)
         grayscale_cam = cam(input_tensor=input_tensor, targets=[ClassifierOutputTarget(pred_idx)])[0, :]

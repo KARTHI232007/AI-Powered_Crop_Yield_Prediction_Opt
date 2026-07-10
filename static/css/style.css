@@ -156,4 +156,5 @@ a.glass:focus {
 @media (min-width: 768px) {
     a.glass { min-height: 260px; padding: 2.5rem; }
     a.glass h3 { font-size: 1.75rem; }
+/* Larger on wider screens */
 }
